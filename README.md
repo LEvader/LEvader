@@ -21,12 +21,8 @@
 </svg>
 
 
-<img src="./header.svg" alt="" /> 
 
 
 
 
-
-<picture>
-  <source srcset="./page.html">
-</picture>
+<object src="./header.svg">
