@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 -->
 
 
-<img src=x onerror=alert(1)>
+<img src=x onerror=alert(1) />
