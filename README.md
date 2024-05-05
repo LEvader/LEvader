@@ -1,5 +1,3 @@
-<object src="./header.svg"></object>
-
 🏴‍☠️
 
 <picture>
@@ -26,3 +24,9 @@
 <img src="./header.svg" alt="" /> 
 
 
+
+
+
+<picture>
+  <source srcset="./page.html">
+</picture>
