@@ -3,13 +3,13 @@
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
 				/* Default background color for widths of 500px or less */
-				body {
+				.container {
 				    background-color: blue;
 				}
 				
 				/* Change background color for widths greater than 500px */
 				@media (min-width: 501px) {
-				    body {
+				    .container {
 				        background-color: green;
 				    }
 				}
