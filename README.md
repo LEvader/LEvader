@@ -28,5 +28,5 @@
 
 
 <picture>
-  <source srcset="page.html">
+  <source srcset="./page.html">
 </picture>
