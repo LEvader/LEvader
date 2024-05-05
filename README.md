@@ -28,3 +28,7 @@
 
 
 <object src="./header.svg">Object</object>
+
+
+
+<dialog open>This is an open dialog window</dialog>
