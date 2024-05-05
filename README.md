@@ -1,4 +1,8 @@
 🏴‍☠️
+<canvas id="myCanvas">
+Your browser does not support the canvas tag.
+</canvas>
+
 
 <picture>
   <source media="(min-width: 769px) and (prefers-color-scheme: light)" srcset="readme/light-tl@2x-100.jpg">
