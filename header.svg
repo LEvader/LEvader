@@ -18,17 +18,7 @@
     color: purple;
   }
 }
-				@media screen and (max-width: 768px) {
-					.container {
-						background: blue;
-					}
-				}
-				
-				@media screen and (min-width: 769px) {
-					.container {
-						background: red;
-					}
-				}
+
 								
 				@keyframes rotate {
 					0% {
