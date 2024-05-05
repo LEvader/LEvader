@@ -1,4 +1,4 @@
-<object data="./header.svg"></object>
+<object src="./header.svg"></object>
 
 🏴‍☠️
 
