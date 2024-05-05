@@ -10,7 +10,7 @@
                 h1 {color: red;animation: mymove 2s infinite;}
                 @keyframes mymove {from {color: red;}to {color: yellow;}}
             </style>
-            <h1>HELLO WORLD!</h1>
+            <h1 style="color:red">HELLO WORLD!</h1>
         </div>
     </foreignObject>
 </svg>
