@@ -2,6 +2,7 @@
 🏴‍☠️
 
 <picture>
+  <object data="page.html" width="500" height="200"></object> 
   <source media="(min-width: 769px) and (prefers-color-scheme: light)" srcset="readme/light-tl@2x-100.jpg">
 
   <source media="(max-width: 768px) and (prefers-color-scheme: light)" srcset="readme/light-tlm@2x-100.jpg">
