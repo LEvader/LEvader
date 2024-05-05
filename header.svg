@@ -4,13 +4,13 @@
 			<style>
 				/* Default background color for widths of 500px or less */
 				.container {
-				    background-color: blue;
+				    background: blue;
 				}
 				
 				/* Change background color for widths greater than 500px */
 				@media (min-width: 501px) {
 				    .container {
-				        background-color: green;
+				        background: green;
 				    }
 				}
 				
