@@ -15,7 +15,7 @@
 
 @media (orientation: portrait) {
   h1 {
-    color: pink;
+    color: purple;
   }
 }
 				@media screen and (max-width: 768px) {
