@@ -2,8 +2,11 @@
 
 <svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
 	<foreignObject width="100%" height="100%">
+		<p>
+			hahaha
+		<noscript>Your browser does not support JavaScript!</noscript>
+	</p>
 		<div xmlns="http://www.w3.org/1999/xhtml">
-			<noscript>Your browser does not support JavaScript!</noscript>
 			<style>
 				@media screen and (max-width: 768px) {
 					.container {
