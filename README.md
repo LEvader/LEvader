@@ -22,7 +22,7 @@
 
 
 
+<img src="./header.svg" alt="" /> 
 
 
-
-<object src="./header.svg">
+<object src="./header.svg" />
