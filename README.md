@@ -25,4 +25,3 @@
 <img src="./header.svg" alt="" /> 
 
 
-<object data="page.html" width="500" height="200"></object> 
