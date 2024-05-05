@@ -2,6 +2,12 @@
 	<foreignObject width="100%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
+				@media screen and (min-width: 480px) {
+				  h1 {
+				    background: blue;
+				  }
+				}
+				
 				@keyframes rotate {
 					0% {
 						transform: rotate(3deg);
