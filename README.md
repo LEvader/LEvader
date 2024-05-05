@@ -8,15 +8,7 @@
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
             h1 {color: red;animation: mymove 2s infinite;}
-
-            @keyframes mymove {
-                from {
-                    color: red;
-                }
-                to {
-                    color: yellow;
-                }
-            }
+            @keyframes mymove {from {color: red;}to {color: yellow;}}
             </style>
             <h1>HELLO WORLD!</h1>
         </div>
