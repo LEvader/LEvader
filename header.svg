@@ -6,6 +6,18 @@
     
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
+				
+@media (orientation: landscape) {
+  h1 {
+    color: orange;
+  }
+}
+
+@media (orientation: portrait) {
+  h1 {
+    color: pink;
+  }
+}
 				@media screen and (max-width: 768px) {
 					.container {
 						background: blue;
